@@ -5,7 +5,7 @@ Download `Catppuccin-SE.tar.bz2` archive from [Releases](https://github.com/ljmi
 
 ## Applying
 
-Set the `gtk-icon-theme-name` to the theme the icons were applied to during installation in `~/.config/gtk-3.0/settings.ini`. Example:
+Set the `gtk-icon-theme-name` in `~/.config/gtk-3.0/settings.ini`:
 
 ```ini
 gtk-icon-theme-name=Catppuccin-SE
